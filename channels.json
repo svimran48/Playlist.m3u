@@ -1050,39 +1050,9 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "Villarreal vs Paris Saint-Germain - MATCHDAY 3 - UEFA Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255886540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-  },
-  {
-    "name": "Manchester United vs Roma - MATCHDAY 3 - UEFA Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255741540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-  },
-  {
-    "name": "LASK vs Slovan Bratislava - MATCHDAY 3 - UEFA Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255621540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
-  },
-  {
-    "name": "Feyenoord vs Inter - MATCHDAY 3 - UEFA Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255296540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-  },
-  {
     "name": "Barcelona vs Aston Villa - MATCHDAY 3 - UEFA Champions League 2026/27",
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255163540x302.jpg",
     "genre": "Football",
     "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-  },
-  {
-    "name": "Atletico Madrid vs Bayern Munchen - MATCHDAY 3 - UEFA Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255037540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
   }
 ];
