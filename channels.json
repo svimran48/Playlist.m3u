@@ -1056,9 +1056,21 @@ const channels = [
     "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
   },
   {
-    "name": "Al Hussein (JOR) vs Al Shorta (IRQ) - MATCHDAY 4 - AFC Champions League Two 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611060540x302.jpg",
+    "name": "Galatasaray vs Stuttgart - MATCHDAY 3 - UEFA Champions League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793725372540x302.jpg",
     "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+  },
+  {
+    "name": "Shakhtar Donetsk vs Sporting CP - MATCHDAY 3 - UEFA Champions League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793254746540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+  },
+  {
+    "name": "Al Hilal SFC (KSA) vs Shabab Al Ahli (UAE) - MATCHDAY 4 - AFC Champions League Elite 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648028540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
   }
 ];
