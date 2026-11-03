@@ -1048,11 +1048,5 @@ const channels = [
     "logo": "https://i.imgur.com/dnoy7mK.png",
     "genre": "Sports",
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
-  },
-  {
-    "name": "Barcelona vs Aston Villa - MATCHDAY 3 - UEFA Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793255163540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
   }
 ];
