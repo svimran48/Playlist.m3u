@@ -1,0 +1,18 @@
+#EXTM3U
+#=================================
+# Playlist name : Tapmad Playlist
+# Developed by: Monirul Islam
+# Telegram group : https://t.me/sm_iptv_bd
+# Last Updated: 11:00:06 PM 03-11-2026 (BD Time)
+# All channel : 3
+#=================================
+
+#EXTINF:-1 tvg-id="tapmad-19708" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648082540x302.jpg" group-title="Football",Esteghlal FC (IRN) vs Al Shamal SC (QAT) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19493" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611060540x302.jpg" group-title="Football",Al Hussein (JOR) vs Al Shorta (IRQ) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793254746540x302.jpg" group-title="Football",Shakhtar Donetsk vs Sporting CP - MATCHDAY 3 - UEFA Champions League 2026/27
+https://vodintlv2.in-maa-1.linodeobjects.com/UCL2026/PROMO/master.m3u8
+

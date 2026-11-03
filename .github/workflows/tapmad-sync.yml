@@ -1,0 +1,45 @@
+name: Sync Tapmad playlist
+
+# Copies the Tapmad live-match playlist from
+# sm-monirulislam/Tapmad_Auto_Update_Playlist into tapmad.m3u so the site
+# reads it from this repo alongside channels.json. Upstream rewrites the file
+# as matches go live and end, so this runs every 15 minutes.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tapmad-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download upstream playlist
+        run: |
+          curl -fsSL --retry 3 -o tapmad.new \
+            https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/refs/heads/main/tapmad_sm.m3u
+          # Refuse anything that is not an M3U (an error page, an empty body).
+          head -n 1 tapmad.new | grep -q '^#EXTM3U' || { echo "Upstream did not return an M3U"; exit 1; }
+
+      - name: Commit if the matches changed
+        run: |
+          # Upstream stamps "Last Updated" on every run; ignore that line when
+          # deciding whether anything really changed.
+          strip() { grep -v '^# Last Updated' "$1" 2>/dev/null || true; }
+          if [ -f tapmad.m3u ] && [ "$(strip tapmad.m3u)" = "$(strip tapmad.new)" ]; then
+            echo "No change"; rm tapmad.new; exit 0
+          fi
+          mv tapmad.new tapmad.m3u
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add tapmad.m3u
+          git commit -m "Sync Tapmad playlist"
+          git push
