@@ -1048,23 +1048,5 @@ const channels = [
     "logo": "https://i.imgur.com/dnoy7mK.png",
     "genre": "Sports",
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
-  },
-  {
-    "name": "Hobart Hurricanes vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793774282540x302.jpg",
-    "genre": "Cricket",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
-  },
-  {
-    "name": "FC Pohang Steelers (KOR) vs Gamba Osaka (JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793776723540x302.jpg",
-    "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-  },
-  {
-    "name": "FC Seoul (KOR) vs The Cong - Viettel FC (VIE) - MATCHDAY 4 - AFC Champions League Two 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793649295540x302.jpg",
-    "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
   }
 ];
