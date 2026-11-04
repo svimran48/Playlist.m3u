@@ -1060,5 +1060,11 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793648832540x302.jpg",
     "genre": "Football",
     "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+  },
+  {
+    "name": "Hobart Hurricanes vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793774282540x302.jpg",
+    "genre": "Cricket",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
   }
 ];
