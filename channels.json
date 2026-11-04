@@ -1050,9 +1050,27 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "FC Arkadag (TKM) vs Golgohar Sirjan SC (IRN) - MATCHDAY 4 - AFC Champions League Two 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793649699540x302.jpg",
+    "name": "Rennes vs Olympiacos - MATCHDAY 4 - UEFA Europa League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734746540x302.jpg",
     "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+  },
+  {
+    "name": "Al Rayyan SC (QAT) vs Al Nahda Club (OMA) - MATCHDAY 4 - AFC Champions League Two 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793651061540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+  },
+  {
+    "name": "Kuwait SC (KUW) vs PFC Nasaf (UZB) - MATCHDAY 4 - AFC Champions League Two 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793650708540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+  },
+  {
+    "name": "Al Wahda FC (UAE) vs Al Khaldiya SC (BHR) - MATCHDAY 4 - AFC Champions League Two 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793650270540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
   }
 ];
