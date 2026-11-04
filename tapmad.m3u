@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:00:08 PM 04-11-2026 (BD Time)
-# All channel : 4
+# Last Updated: 11:26:37 PM 04-11-2026 (BD Time)
+# All channel : 6
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19841" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734746540x302.jpg" group-title="Football",Rennes vs Olympiacos - MATCHDAY 4 - UEFA Europa League 2026/27
@@ -18,4 +18,10 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154
 
 #EXTINF:-1 tvg-id="tapmad-19513" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793650270540x302.jpg" group-title="Football",Al Wahda FC (UAE) vs Al Khaldiya SC (BHR) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256122540x302.jpg" group-title="Football",Fenerbahce vs Liverpool - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256007540x302.jpg" group-title="Football",AEK Athens vs Real Madrid - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 

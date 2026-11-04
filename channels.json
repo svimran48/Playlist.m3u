@@ -1072,5 +1072,17 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793650270540x302.jpg",
     "genre": "Football",
     "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+  },
+  {
+    "name": "Fenerbahce vs Liverpool - MATCHDAY 3 - UEFA Champions League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256122540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+  },
+  {
+    "name": "AEK Athens vs Real Madrid - MATCHDAY 3 - UEFA Champions League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793256007540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
   }
 ];
