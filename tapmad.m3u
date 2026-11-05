@@ -3,22 +3,19 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:00:09 PM 05-11-2026 (BD Time)
-# All channel : 5
+# Last Updated: 08:00:08 PM 05-11-2026 (BD Time)
+# All channel : 4
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg" group-title="Cricket",Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19538" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734613540x302.jpg" group-title="Football",Lion City Sailors FC (SGP) vs Adelaide United FC (AUS) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19563" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793736642540x302.jpg" group-title="Football",Preah Khan Reach Svay Rieng FC (CAM) vs Tampines Rovers FC (SGP) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19558" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793736276540x302.jpg" group-title="Football",BG Pathum United (THA) vs Tai Po FC (HKG) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19553" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793735826540x302.jpg" group-title="Football",Kuching City FC (MAS) vs Gangwon FC (KOR) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 
