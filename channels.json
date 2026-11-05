@@ -1090,5 +1090,17 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793737261540x302.jpg",
     "genre": "Football",
     "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+  },
+  {
+    "name": "Celta vs Union - MATCHDAY 4 - UEFA Europa League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793737072540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+  },
+  {
+    "name": "Torreense vs Ararat-Armenia - MATCHDAY 4 - UEFA Europa League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793736870540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
   }
 ];

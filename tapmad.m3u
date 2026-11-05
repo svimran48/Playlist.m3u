@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:00:12 AM 06-11-2026 (BD Time)
-# All channel : 7
+# Last Updated: 03:00:10 AM 06-11-2026 (BD Time)
+# All channel : 9
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19858" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793738709540x302.jpg" group-title="Football",Benfica vs Lech Poznan - MATCHDAY 4 - UEFA Europa League 2026/27
@@ -27,4 +27,10 @@ https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a576154156
 
 #EXTINF:-1 tvg-id="tapmad-19852" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793737261540x302.jpg" group-title="Football",Sunderland vs Dinamo Zagreb - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19851" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793737072540x302.jpg" group-title="Football",Celta vs Union - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19850" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793736870540x302.jpg" group-title="Football",Torreense vs Ararat-Armenia - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
