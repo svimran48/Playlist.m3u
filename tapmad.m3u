@@ -3,10 +3,13 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:00:05 AM 05-11-2026 (BD Time)
-# All channel : 1
+# Last Updated: 11:00:05 AM 05-11-2026 (BD Time)
+# All channel : 2
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611523540x302.jpg" group-title="Cricket",Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19187" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793784162540x302.jpg" group-title="Cricket",Adelaide Strikers vs Brisbane Heat - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
