@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:00:04 PM 05-11-2026 (BD Time)
-# All channel : 3
+# Last Updated: 04:00:07 PM 05-11-2026 (BD Time)
+# All channel : 6
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611523540x302.jpg" group-title="Cricket",Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026
@@ -15,4 +15,13 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 
 #EXTINF:-1 tvg-id="tapmad-19188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793784315540x302.jpg" group-title="Cricket",Sydney Thunder vs Perth Scorchers - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19548" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793735344540x302.jpg" group-title="Football",Kitchee SC (HKG) vs Phnom Penh Crown FC (CAM) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19543" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734921540x302.jpg" group-title="Football",FC Machida Zelvia (JPN) vs Shanghai Shenhua FC (CHN) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19538" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793734613540x302.jpg" group-title="Football",Lion City Sailors FC (SGP) vs Adelaide United FC (AUS) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 
