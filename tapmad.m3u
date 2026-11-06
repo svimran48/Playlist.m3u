@@ -3,7 +3,13 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 08:00:05 PM 06-11-2026 (BD Time)
-# All channel : 0
+# Last Updated: 01:00:06 AM 07-11-2026 (BD Time)
+# All channel : 2
 #=================================
+
+#EXTINF:-1 tvg-id="tapmad-20115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793960739540x302.jpg" group-title="Football",Oxford City vs Leicester City - 1st Round - FA Cup 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19959" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793791366540x302.jpg" group-title="Football",Toulouse vs Strasbourg - MATCHDAY 10 - French Ligue 1 2026/27
+https://vodintlv2.in-maa-1.linodeobjects.com/promos/Ligue1/ImLovinIt/master.m3u8
 
