@@ -1050,21 +1050,21 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611523540x302.jpg",
-    "genre": "Cricket",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-  },
-  {
     "name": "Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026",
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
     "genre": "Cricket",
     "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
   },
   {
-    "name": "New Zealand vs India - 2nd ODI - India Tour of New Zealand 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786474540x302.jpg",
-    "genre": "Cricket",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+    "name": "Hwacheon KSPO WFC (KOR) vs Ho Chi Minh City Women's FC (VIE) - MATCHDAY 3 - AFC Women's Champions League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793863690540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+  },
+  {
+    "name": "Naegohyang Women's FC (PRK) vs INAC Kobe Leonessa (JPN) - MATCHDAY 3 - AFC Women's Champions League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793863402540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
   }
 ];
