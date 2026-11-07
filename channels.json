@@ -1050,9 +1050,21 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "Espanyol vs Deportivo - MATCHDAY 12 - LaLiga 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793966567540x302.jpg",
+    "name": "Altrincham vs Notts County - 1st Round - FA Cup 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793960976540x302.jpg",
     "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
+    "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+  },
+  {
+    "name": "Osasuna vs Athletic - MATCHDAY 12 - LaLiga 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793966788540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+  },
+  {
+    "name": "Auxerre vs Paris FC - MATCHDAY 10 - French Ligue 1 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793791732540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
   }
 ];
