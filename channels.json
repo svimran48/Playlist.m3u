@@ -1048,5 +1048,11 @@ const channels = [
     "logo": "https://i.imgur.com/dnoy7mK.png",
     "genre": "Sports",
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
+  },
+  {
+    "name": "New Zealand vs India - 2nd ODI - India Tour of New Zealand 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786474540x302.jpg",
+    "genre": "Cricket",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
   }
 ];
