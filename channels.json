@@ -1056,15 +1056,9 @@ const channels = [
     "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
   },
   {
-    "name": "Hwacheon KSPO WFC (KOR) vs Ho Chi Minh City Women's FC (VIE) - MATCHDAY 3 - AFC Women's Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793863690540x302.jpg",
+    "name": "Melbourne City FC (AUS) vs Beijing Jingtan Football Club (CHN) - MATCHDAY 3 - AFC Women's Champions League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793864041540x302.jpg",
     "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-  },
-  {
-    "name": "Naegohyang Women's FC (PRK) vs INAC Kobe Leonessa (JPN) - MATCHDAY 3 - AFC Women's Champions League 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793863402540x302.jpg",
-    "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
   }
 ];
