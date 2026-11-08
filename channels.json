@@ -1050,18 +1050,6 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "Stafford Rangers vs Grimsby Town - 1st Round - FA Cup 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971394540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
-  },
-  {
-    "name": "Elche vs Betis - MATCHDAY 12 - LaLiga 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793968868540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
-  },
-  {
     "name": "Leg 3 - Verona (ITA) - Race - Longines FEI Jumping World Cup 2026",
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793790706540x302.jpg",
     "genre": "Horse Riding",
@@ -1072,5 +1060,17 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792025540x302.jpg",
     "genre": "Football",
     "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+  },
+  {
+    "name": "Cray Wanderers vs Stockport County - 1st Round - FA Cup 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971513540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+  },
+  {
+    "name": "Wimborne Town vs Crawley Town - 1st Round - FA Cup 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971642540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
   }
 ];
