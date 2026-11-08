@@ -3,19 +3,19 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:00:08 PM 08-11-2026 (BD Time)
+# Last Updated: 10:00:07 PM 08-11-2026 (BD Time)
 # All channel : 4
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793790706540x302.jpg" group-title="Horse Riding",Leg 3 - Verona (ITA) - Race - Longines FEI Jumping World Cup 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-19962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792025540x302.jpg" group-title="Football",Rennes vs LOSC - MATCHDAY 10 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-
 #EXTINF:-1 tvg-id="tapmad-20119" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971513540x302.jpg" group-title="Football",Cray Wanderers vs Stockport County - 1st Round - FA Cup 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971642540x302.jpg" group-title="Football",Wimborne Town vs Crawley Town - 1st Round - FA Cup 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19463" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793968962540x302.jpg" group-title="Football",Real Sociedad vs Rayo Vallecano - MATCHDAY 12 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
