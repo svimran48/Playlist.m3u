@@ -3,21 +3,9 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 12:00:08 AM 09-11-2026 (BD Time)
-# All channel : 7
+# Last Updated: 01:00:07 AM 09-11-2026 (BD Time)
+# All channel : 3
 #=================================
-
-#EXTINF:-1 tvg-id="tapmad-19966" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792614540x302.jpg" group-title="Football",Le Havre vs Lorient - MATCHDAY 10 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19965" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792476540x302.jpg" group-title="Football",Brest vs OL - MATCHDAY 10 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19964" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792343540x302.jpg" group-title="Football",Le Mans vs Monaco - MATCHDAY 10 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19963" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793792171540x302.jpg" group-title="Football",Angers vs Nice - MATCHDAY 10 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793971770540x302.jpg" group-title="Football",Oldham Athletic vs Sheffield Wednesday - 1st Round - FA Cup 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
