@@ -3,15 +3,15 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:00:07 PM 09-11-2026 (BD Time)
+# Last Updated: 03:00:07 PM 09-11-2026 (BD Time)
 # All channel : 3
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793611523540x302.jpg" group-title="Cricket",Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg" group-title="Cricket",Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793858264540x302.jpg" group-title="Cricket",Pakistan vs Sri Lanka - 1st Test - Sri Lanka Tour of Pakistan 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
