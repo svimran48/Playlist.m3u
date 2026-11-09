@@ -1056,6 +1056,12 @@ const channels = [
     "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
   },
   {
+    "name": "Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793865686540x302.jpg",
+    "genre": "Cricket",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
+  },
+  {
     "name": "Pakistan vs Sri Lanka - 1st Test - Sri Lanka Tour of Pakistan 2026",
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793858264540x302.jpg",
     "genre": "Cricket",
