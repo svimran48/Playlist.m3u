@@ -3,12 +3,9 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:00:08 AM 13-11-2026 (BD Time)
-# All channel : 7
+# Last Updated: 03:00:08 AM 13-11-2026 (BD Time)
+# All channel : 6
 #=================================
-
-#EXTINF:-1 tvg-id="tapmad-20156" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794291211540x302.jpg" group-title="Boat Racing",E1 Florida E1 Miami 2026 - Session 2 - E1 Series 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20062" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794149220540x302.jpg" group-title="Football",Montenegro vs Latvia - MATCHDAY 5 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
