@@ -1056,15 +1056,9 @@ const channels = [
     "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
   },
   {
-    "name": "Melbourne Stars vs Brisbane Heat - Group Stage - Women's Big Bash League 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794404777540x302.jpg",
+    "name": "Melbourne Renegades vs Sydney Sixers - Group Stage - Women's Big Bash League 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794405027540x302.jpg",
     "genre": "Cricket",
     "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
-  },
-  {
-    "name": "Asian Qualifiers Draw - LA28 - Draw - Women's Olympic Football Tournament LA28: Asian Qualifiers",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793947134540x302.jpg",
-    "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
   }
 ];
