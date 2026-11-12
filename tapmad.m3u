@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:05 AM 12-11-2026 (BD Time)
-# All channel : 2
+# Last Updated: 01:00:05 PM 12-11-2026 (BD Time)
+# All channel : 3
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793858264540x302.jpg" group-title="Cricket",Pakistan vs Sri Lanka - 1st Test - Sri Lanka Tour of Pakistan 2026
@@ -12,4 +12,7 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 
 #EXTINF:-1 tvg-id="tapmad-19196" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794404777540x302.jpg" group-title="Cricket",Melbourne Stars vs Brisbane Heat - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20001" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793947134540x302.jpg" group-title="Football",Asian Qualifiers Draw - LA28 - Draw - Women's Olympic Football Tournament LA28: Asian Qualifiers
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
