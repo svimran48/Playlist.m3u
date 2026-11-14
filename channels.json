@@ -1056,12 +1056,6 @@ const channels = [
     "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
   },
   {
-    "name": "Round 7 - Race Off - Session 4 - E1 Series 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794551475540x302.jpg",
-    "genre": "Boat Racing",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-  },
-  {
     "name": "Norway vs Wales - MATCHDAY 5 - UEFA Nations League 2026/27",
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794295162540x302.jpg",
     "genre": "Football",
@@ -1072,5 +1066,11 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794295054540x302.jpg",
     "genre": "Football",
     "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+  },
+  {
+    "name": "Round 7 - Finals - Session 5 - E1 Series 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794551757540x302.jpg",
+    "genre": "Boat Racing",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
   }
 ];
