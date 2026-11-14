@@ -3,13 +3,28 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:00:07 AM 15-11-2026 (BD Time)
-# All channel : 2
+# Last Updated: 02:00:10 AM 15-11-2026 (BD Time)
+# All channel : 7
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-20203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794572967540x302.jpg" group-title="Mma",Nemkov vs Bilostenniy - Semi Finals - PFL 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-20186" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794551757540x302.jpg" group-title="Boat Racing",Round 7 - Finals - Session 5 - E1 Series 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20208" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794300987540x302.jpg" group-title="Racing",Sixties Endurance by Peter Auto - Race - HSR Daytona Classic 2026
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20080" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794296162540x302.jpg" group-title="Football",Romania vs Poland - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20079" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794296056540x302.jpg" group-title="Football",Sweden vs Bosnia and Herzegovina - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20078" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794295950540x302.jpg" group-title="Football",Northern Ireland vs Ukraine - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20077" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794295829540x302.jpg" group-title="Football",Portugal vs Denmark - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20076" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794295638540x302.jpg" group-title="Football",Austria vs Ireland - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
