@@ -1060,5 +1060,11 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794552567540x302.jpg",
     "genre": "Football",
     "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+  },
+  {
+    "name": "Qualifier Leg - Stuttgart (GER) - Qualifier - Longines FEI Jumping World Cup 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794561590540x302.jpg",
+    "genre": "Horse Riding",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
   }
 ];
