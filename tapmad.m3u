@@ -3,15 +3,15 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 09:00:06 AM 15-11-2026 (BD Time)
+# Last Updated: 10:00:07 AM 15-11-2026 (BD Time)
 # All channel : 4
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19064" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786958540x302.jpg" group-title="Cricket",New Zealand vs India - 5th ODI - India Tour of New Zealand 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-19200" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794477526540x302.jpg" group-title="Cricket",Sydney Sixers vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20132" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794471319540x302.jpg" group-title="Cricket",Australia vs England - 2nd ODI - England Tour of Australia 2026
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19316" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793258968540x302.jpg" group-title="Mma",Gane vs Hokit - UFC 334 - UFC 2026
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
