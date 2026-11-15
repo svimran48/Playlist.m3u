@@ -1050,15 +1050,21 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "CLASSIC 24 HOUR presented by Mission Foods (GROUP A/B) RACE 1 - Group Stages - HSR Daytona Classic 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794301477540x302.jpg",
-    "genre": "Racing",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
+    "name": "New Zealand vs India - 5th ODI - India Tour of New Zealand 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793786958540x302.jpg",
+    "genre": "Cricket",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
   },
   {
     "name": "Sydney Sixers vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026",
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794477526540x302.jpg",
     "genre": "Cricket",
     "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
+  },
+  {
+    "name": "Gane vs Hokit - UFC 334 - UFC 2026",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1793258968540x302.jpg",
+    "genre": "Mma",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8"
   }
 ];
