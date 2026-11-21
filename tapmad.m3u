@@ -3,7 +3,10 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:00:05 PM 21-11-2026 (BD Time)
-# All channel : 0
+# Last Updated: 07:00:04 PM 21-11-2026 (BD Time)
+# All channel : 1
 #=================================
+
+#EXTINF:-1 tvg-id="tapmad-20241" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172181540x302.jpg" group-title="Football",Alaves vs Deportivo - MATCHDAY 13 - LaLiga 2026/27
+https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
