@@ -3,16 +3,13 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:00:06 PM 22-11-2026 (BD Time)
-# All channel : 3
+# Last Updated: 12:00:05 AM 23-11-2026 (BD Time)
+# All channel : 2
 #=================================
-
-#EXTINF:-1 tvg-id="tapmad-20246" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172613540x302.jpg" group-title="Football",Racing Santander vs Real Sociedad - MATCHDAY 13 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-19975" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794902830540x302.jpg" group-title="Football",Lorient vs Rennes - MATCHDAY 11 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-20247" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795172688540x302.jpg" group-title="Football",Osasuna vs Malaga - MATCHDAY 13 - LaLiga 2026/27
-https://vodintlv2.in-maa-1.linodeobjects.com/LALIGA2026/LaligaPromo/master.m3u8
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 
