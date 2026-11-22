@@ -1048,23 +1048,5 @@ const channels = [
     "logo": "https://i.imgur.com/dnoy7mK.png",
     "genre": "Sports",
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
-  },
-  {
-    "name": "New Zealand vs India - 1st Test - India Tour of New Zealand 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553818540x302.jpg",
-    "genre": "Cricket",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-  },
-  {
-    "name": "FIA F4 World Cup - Day 2 - Race - Macau Grand Prix 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794995979540x302.jpg",
-    "genre": "Racing",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-  },
-  {
-    "name": "FEI NAL - LA Arcadia / USA - Race - Longines FEI Jumping World Cup 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794905786540x302.jpg",
-    "genre": "Horse Riding",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
   }
 ];
