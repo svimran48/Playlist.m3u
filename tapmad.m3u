@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 06:00:06 AM 22-11-2026 (BD Time)
-# All channel : 2
+# Last Updated: 08:00:06 AM 22-11-2026 (BD Time)
+# All channel : 3
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794553818540x302.jpg" group-title="Cricket",New Zealand vs India - 1st Test - India Tour of New Zealand 2026
@@ -12,4 +12,7 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 
 #EXTINF:-1 tvg-id="tapmad-20320" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794995979540x302.jpg" group-title="Racing",FIA F4 World Cup - Day 2 - Race - Macau Grand Prix 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20338" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794905786540x302.jpg" group-title="Horse Riding",FEI NAL - LA Arcadia / USA - Race - Longines FEI Jumping World Cup 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 
