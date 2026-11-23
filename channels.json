@@ -1060,11 +1060,5 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795075101540x302.jpg",
     "genre": "Football",
     "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-  },
-  {
-    "name": "Al Ain FC (UAE) vs Esteghlal FC (IRN) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795077200540x302.jpg",
-    "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
   }
 ];
