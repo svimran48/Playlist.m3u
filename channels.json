@@ -1048,35 +1048,5 @@ const channels = [
     "logo": "https://i.imgur.com/dnoy7mK.png",
     "genre": "Sports",
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
-  },
-  {
-    "name": "Australia vs England - 2nd T20I - England Tour of Australia 2026",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794813008540x302.jpg",
-    "genre": "Cricket",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
-  },
-  {
-    "name": "Newcastle Jets FC (AUS) vs Kashiwa Reysol (JPN) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795161741540x302.jpg",
-    "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-  },
-  {
-    "name": "Chattogram City FC Brothers Union Ltd - MATCHDAY 5 - Federation Cup 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795501947540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8"
-  },
-  {
-    "name": "Abahani Ltd. DhakaFakirerpool Young Mens Club - MATCHDAY 5 - Federation Cup 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795501821540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8"
-  },
-  {
-    "name": "Fortis FC Ltd vs Rahamatgonj MFS - MATCHDAY 5 - Federation Cup 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795501699540x302.jpg",
-    "genre": "Football",
-    "url": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
   }
 ];
