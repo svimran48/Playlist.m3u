@@ -3,13 +3,16 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 10:30:05 PM 24-11-2026 (BD Time)
-# All channel : 2
+# Last Updated: 12:30:06 AM 25-11-2026 (BD Time)
+# All channel : 3
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-19788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795166627540x302.jpg" group-title="Football",Shabab Al Ahli (UAE) vs Al Qadsiah Club (KSA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19394" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795425504540x302.jpg" group-title="Football",Galatasaray vs Aston Villa - MATCHDAY 5 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-19573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795160140540x302.jpg" group-title="Football",Al Seeb Club (OMA) vs Al Shorta (IRQ) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19393" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795425356540x302.jpg" group-title="Football",Bodo/Glimt vs LASK - MATCHDAY 5 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795167220540x302.jpg" group-title="Football",Al Nassr Club (KSA) vs Al Sadd SC (QAT) - MATCHDAY 5 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
