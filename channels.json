@@ -1050,15 +1050,21 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "Kyoto Sanga F.C. (JPN) vs FC Pohang Steelers (KOR) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795165240540x302.jpg",
+    "name": "Cong An Ha Noi (VIE) vs Vissel Kobe (JPN) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795165692540x302.jpg",
     "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
   },
   {
-    "name": "Daejeon Hana Citizen FC (KOR) vs Beijing FC (CHN) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795164518540x302.jpg",
+    "name": "Ratchaburi FC (THA) vs Johor Darul Ta'zim FC (MAS) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795166022540x302.jpg",
     "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
+  },
+  {
+    "name": "Shanghai Port FC (CHN) vs Buriram United (THA) - MATCHDAY 5 - AFC Champions League Elite 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795166319540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
   }
 ];
