@@ -1050,9 +1050,27 @@ const channels = [
     "url": "https://ehgembxe.cfd/pqd6qx47-8073"
   },
   {
-    "name": "PFC Nasaf (UZB) vs Al Khaldiya SC (BHR) - MATCHDAY 5 - AFC Champions League Two 2026/27",
-    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795510682540x302.jpg",
+    "name": "Kuwait SC (KUW) vs Al Wahda FC (UAE) - MATCHDAY 5 - AFC Champions League Two 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795512195540x302.jpg",
     "genre": "Football",
-    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8"
+  },
+  {
+    "name": "Al Muharraq SC (BHR) vs FC Arkadag (TKM) - MATCHDAY 5 - AFC Champions League Two 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795511769540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+  },
+  {
+    "name": "Al Jazira Club (UAE) vs Golgohar Sirjan SC (IRN) - MATCHDAY 5 - AFC Champions League Two 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795511358540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+  },
+  {
+    "name": "Al Faisaly (JOR) vs Al Rayyan SC (QAT) - MATCHDAY 5 - AFC Champions League Two 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795511028540x302.jpg",
+    "genre": "Football",
+    "url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
   }
 ];
