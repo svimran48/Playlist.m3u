@@ -3,10 +3,19 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:00:04 PM 26-11-2026 (BD Time)
-# All channel : 1
+# Last Updated: 04:30:05 PM 26-11-2026 (BD Time)
+# All channel : 4
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19212" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795415099540x302.jpg" group-title="Cricket",Sydney Sixers vs Melbourne Stars - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795596439540x302.jpg" group-title="Football",Tampines Rovers FC (SGP) vs Shanghai Shenhua FC (CHN) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19623" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795596106540x302.jpg" group-title="Football",Kuching City FC (MAS) vs Phnom Penh Crown FC (CAM) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19618" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795595685540x302.jpg" group-title="Football",Gangwon FC (KOR) vs Kitchee SC (HKG) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
