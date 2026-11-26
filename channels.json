@@ -1096,5 +1096,17 @@ const channels = [
     "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795366129540x302.jpg",
     "genre": "Football",
     "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8"
+  },
+  {
+    "name": "Ferencvaros vs Celje - MATCHDAY 5 - UEFA Europa League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370623540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+  },
+  {
+    "name": "OFI vs Anderlecht - MATCHDAY 5 - UEFA Europa League 2026/27",
+    "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370381540x302.jpg",
+    "genre": "Football",
+    "url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
   }
 ];

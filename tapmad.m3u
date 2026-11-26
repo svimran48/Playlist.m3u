@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 11:30:08 PM 26-11-2026 (BD Time)
-# All channel : 8
+# Last Updated: 01:30:13 AM 27-11-2026 (BD Time)
+# All channel : 15
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-19866" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795368111540x302.jpg" group-title="Football",Celta vs Bournemouth - MATCHDAY 5 - UEFA Europa League 2026/27
@@ -30,4 +30,25 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 
 #EXTINF:-1 tvg-id="tapmad-19859" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795366129540x302.jpg" group-title="Football",Marseille vs Levski Sofia - MATCHDAY 5 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19876" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370623540x302.jpg" group-title="Football",Ferencvaros vs Celje - MATCHDAY 5 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19875" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370381540x302.jpg" group-title="Football",OFI vs Anderlecht - MATCHDAY 5 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19874" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795370005540x302.jpg" group-title="Football",OL vs Lillestrom - MATCHDAY 5 - UEFA Europa League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19873" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369796540x302.jpg" group-title="Football",Hoffenheim vs Sturm Graz - MATCHDAY 5 - UEFA Europa League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19872" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369502540x302.jpg" group-title="Football",NEC vs Rennes - MATCHDAY 5 - UEFA Europa League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19871" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369389540x302.jpg" group-title="Football",Sparta Praha vs AZ Alkmaar - MATCHDAY 5 - UEFA Europa League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19870" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795369207540x302.jpg" group-title="Football",Juventus vs Omonoia - MATCHDAY 5 - UEFA Europa League 2026/27
+https://vodnewv2.in-maa-1.linodeobjects.com/promos/Tapmadpromo/master.m3u8
 
