@@ -3,25 +3,16 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 05:30:07 PM 26-11-2026 (BD Time)
-# All channel : 6
+# Last Updated: 06:30:06 PM 26-11-2026 (BD Time)
+# All channel : 3
 #=================================
 
-#EXTINF:-1 tvg-id="tapmad-19628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795596439540x302.jpg" group-title="Football",Tampines Rovers FC (SGP) vs Shanghai Shenhua FC (CHN) - MATCHDAY 5 - AFC Champions League Two 2026/27
+#EXTINF:-1 tvg-id="tapmad-19643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795597546540x302.jpg" group-title="Football",Tai Po FC (HKG) vs Adelaide United FC (AUS) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-19623" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795596106540x302.jpg" group-title="Football",Kuching City FC (MAS) vs Phnom Penh Crown FC (CAM) - MATCHDAY 5 - AFC Champions League Two 2026/27
+#EXTINF:-1 tvg-id="tapmad-19638" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795597094540x302.jpg" group-title="Football",BG Pathum United (THA) vs Lion City Sailors FC (SGP) - MATCHDAY 5 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-19618" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795595685540x302.jpg" group-title="Football",Gangwon FC (KOR) vs Kitchee SC (HKG) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795597546540x302.jpg" group-title="Football",Tai Po FC (HKG) vs Adelaide United FC (AUS) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://vodintlv2.in-maa-1.linodeobjects.com/promos/AFCTWOPROMO/master.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-19638" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795597094540x302.jpg" group-title="Football",BG Pathum United (THA) vs Lion City Sailors FC (SGP) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://vodintlv2.in-maa-1.linodeobjects.com/promos/AFCTWOPROMO/master.m3u8
-
 #EXTINF:-1 tvg-id="tapmad-19633" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795596770540x302.jpg" group-title="Football",Preah Khan Reach Svay Rieng FC (CAM) vs FC Machida Zelvia (JPN) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://vodintlv2.in-maa-1.linodeobjects.com/promos/AFCTWOPROMO/master.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 
