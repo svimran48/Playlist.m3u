@@ -3,8 +3,8 @@
 # Playlist name : Tapmad Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 03:30:06 PM 27-11-2026 (BD Time)
-# All channel : 4
+# Last Updated: 04:30:06 PM 27-11-2026 (BD Time)
+# All channel : 5
 #=================================
 
 #EXTINF:-1 tvg-id="tapmad-20136" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1794813228540x302.jpg" group-title="Cricket",Australia vs England - 3rd T20I - England Tour of Australia 2026
@@ -18,4 +18,7 @@ https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15f
 
 #EXTINF:-1 tvg-id="tapmad-20367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795679248540x302.jpg" group-title="Football",Bangladesh Police FC vs Abahani Ltd. Dhaka - Round 6 - Bangladesh Football League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-19213" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1795415254540x302.jpg" group-title="Cricket",Perth Scorchers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
